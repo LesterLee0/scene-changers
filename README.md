@@ -13,4 +13,3 @@ As the **Content Developer** for Scene Changers, I was responsible for writing t
 ## Tools Used
 - Tableau  
 - Excel  
-- Digital Humanities CMS (HumSpace)
